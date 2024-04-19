@@ -51,5 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with Python and the Pandas library.
 
 ## Screenshots 
-[screenshot](https://github.com/elHakerDeCarolSteeam/Data_Maintenance/assets/161890147/97534c65-c0b0-40c9-8975-8077ad3c01b4)
+![Github_Screenshots_part1](https://github.com/elHakerDeCarolSteeam/Data_Maintenance/assets/161890147/ad6dc2c8-d9d5-4949-96e0-488c41b8fed1)
+
 
