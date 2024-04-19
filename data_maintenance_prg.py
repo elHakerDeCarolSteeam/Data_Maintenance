@@ -16,7 +16,7 @@ merged_df = pd.merge(df_main, df_reference1[['Articale #', 'Category Name', 'Cat
 merged_df['STORE_NUM'] = merged_df['STORE_NUM'].fillna(0).astype(int)
 
 # Add Retailer_ID column
-merged_df['Retailer_ID'] = 'ACE' + merged_df['STORE_NUM'].astype(str)
+merged_df['Retailer_ID'] = 'Store #1' + merged_df['STORE_NUM'].astype(str)
 
 # Replace null values with empty strings
 merged_df['Category Abb'] = merged_df['Category Abb'].fillna('')
