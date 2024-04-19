@@ -52,5 +52,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots 
 ![Github_Screenshots_part1](https://github.com/elHakerDeCarolSteeam/Data_Maintenance/assets/161890147/ad6dc2c8-d9d5-4949-96e0-488c41b8fed1)
+![Github_Screenshots_part2](https://github.com/elHakerDeCarolSteeam/Data_Maintenance/assets/161890147/04db39f6-8bf7-4c16-9bd0-7fbe4ffc3d9d)
+![Github_Screenshots_part3](https://github.com/elHakerDeCarolSteeam/Data_Maintenance/assets/161890147/194c50fa-d433-4b54-b5e6-2bd82ed12eb9)
+
+
+
 
 
